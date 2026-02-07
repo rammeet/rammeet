@@ -1,70 +1,15 @@
-<h1 align="center">⚡ Ram Meet</h1>
-<p align="center">
-  Backend / Full-Stack Developer • PHP • JS • SQL
-</p>
+# 💫 About Me:
+⚛️ React developer with a strong front-end mindset<br>🎨 Clean UI, reusable components, and readable code are my priorities<br>🧩 Skilled in breaking complex UI into simple, manageable components<br>🚀 Focused on performance, consistency, and real-world usability<br>📚 Always improving my front-end architecture and best practices
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=00ff9c" />
-</p>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rammeet36@gmail.com) 
 
-## 🧠 GitHub Metrics
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rammeet&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rammeet&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammeet&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=github_dark&utcOffset=5.5" />
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark" />
-</p>
-
----
-
-## 🛠️ Mastered Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,nodejs,git,linux,html,css,react" />
-</p>
-
----
-
-## 🧩 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🚀 Projects
-
-- 🧠 **Student Management System** – PHP + MySQL  
-- 📘 **Subject & Exam Module** – SQL optimized  
-- 🍔 **Food AI App (WIP)** – Recipes & nutrition intelligence  
-
----
-
-## 🔗 Connect
-
-- 💻 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@gmail.com  
-
----
-
-<p align="center">
-  <b>Code. Optimize. Repeat.</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
